@@ -1,0 +1,7 @@
+*.md
+Dockerfile
+LICENSE.txt
+Rakefile
+.gitignore
+.dockerignore
+.jshintrc
